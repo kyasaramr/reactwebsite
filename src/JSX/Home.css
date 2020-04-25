@@ -1,0 +1,110 @@
+
+.MainBody-style{
+
+    width : 100%;
+}
+
+.Footer-style{
+    font-size: 24px;
+    width : 100%;
+    text-decoration-color: #2a7aaf;
+    text-align: center;
+    margin-top: 1500px;
+}
+hr{
+    background: #342020;
+}
+
+.split {
+    position: absolute;
+    z-index: 100;
+    top: 145px;
+    height:1520px;
+    overflow-x: hidden;
+    overflow-y : hidden;
+    padding-top: 10px;
+}
+
+.vertical {
+    border-left: 1px solid #eababa;
+
+    top:145px;
+    position:absolute;
+    left: 80%;
+}
+
+.left {
+    left: 0px;
+
+    width: 80%;
+    background-color: #ffffff;
+}
+
+.right {
+    right: 0;
+
+    width: 19%;
+
+    background-color: #ffffff;
+}
+
+ul{
+    text-align: left;
+    text-decoration: none;
+    font-size: 20px;
+    margin-top: -30px;
+    padding-top: 10px;
+}
+
+.centered {
+    position: absolute;
+
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    width: 100%;
+    margin-top: 720px;
+
+}
+
+.centered-right{
+    position:absolute;
+    top: 35%;
+    left: 45%;
+    width:85%;
+    transform: translate(-50%, -50%);
+    text-align:center;
+}
+
+.centered-right img{
+    width: 100px;
+    border-radius: 50%;
+}
+
+.centered img {
+    width: 400px;
+}
+
+.bloglinks{
+    margin-top: 400px;
+}
+.BlogPostItem{
+    padding: 10px;
+}
+
+.Blog-title h3{
+    align-content: center;
+    top:10px;
+
+}
+
+.Blog-image img{
+    left:10px;
+    height: 450px;
+    width: 1000px;
+
+}
+
+a{
+    text-decoration: none;
+}
